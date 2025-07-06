@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🖥️ macOS Clone – Interactive Browser-Based Desktop Environment
 
 A fully functional, frontend-only clone of the macOS desktop experience, built with **HTML**, **CSS**, and **JavaScript**. This project replicates the macOS interface with working app windows, taskbar (dock), drag-and-drop, responsive design, and real-time interactions—**all inside the browser**.
@@ -58,3 +59,6 @@ A fully functional, frontend-only clone of the macOS desktop experience, built w
 
 ## 🧩 Folder Structure (Simplified)
 
+=======
+# MacOS_Operating-System
+>>>>>>> 7b2a1f0baa0ac65dc5a4e2236d1d7157f0105f7b
